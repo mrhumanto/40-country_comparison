@@ -2,7 +2,7 @@
 
 The goal of this project is to compare 40 countries for women in 3 areas: **Health**, **Access to Work**, and **Gender Equality**. Each area has 5 indicators.
 
-The **Health (Country_Health.csv)** area has the following indicators:
+The **Health** ```Country_Health.csv``` area has the following indicators:
 - Life expectancy at birth, female (years)
 - Mortality rate, adult, female (per 1,000 female adults)
 - Maternal mortality ratio (modeled estimate, per 100,000 live births)
@@ -22,3 +22,5 @@ The **Gender Equality (Gender_Equity.csv)** area has the following indicators:
 - Access to Abortion (Score 0 if no access to abortion, 1 if partial access, and 2 if full access)	
 - Female entrepreneurship rate
 - Gender Development Index
+
+The file 40-Country Comparison.ipynb contains already calculated estimates
