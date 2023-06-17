@@ -23,4 +23,4 @@ The **Gender Equality** (```Gender_Equity.csv```) area has the following indicat
 - Female entrepreneurship rate
 - Gender Development Index
 
-The file ```40-Country Comparison.ipynb``` contains already calculated scores for countries
+The file ```40-Country Comparison.ipynb``` contains already calculated scores for countries.
